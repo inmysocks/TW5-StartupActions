@@ -1,5 +1,5 @@
 /*\
-title: $:/plugins/inmysocks/TriggerActions/startup-actions.js
+title: $:/plugins/inmysocks/StartupActions/startup-actions.js
 type: application/javascript
 module-type: startup
 
