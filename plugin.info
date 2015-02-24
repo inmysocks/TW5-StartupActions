@@ -1,5 +1,5 @@
 {
-	"title": "$:/plugins/inmysocks/TriggerActions",
+	"title": "$:/plugins/inmysocks/StartupActions",
 	"description": "A daemon that will trigger actions when the wiki is opened or reloaded.",
 	"author": "inmysocks",
 	"version": "0.0.7",
